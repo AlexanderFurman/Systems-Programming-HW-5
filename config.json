@@ -1,0 +1,6 @@
+{
+    "type": "Vigenere",
+    "mode": "decrypt",
+    "key": [1, 1, 1, 1]
+}
+
